@@ -1,15 +1,15 @@
 # 📝 todo-chrome-extension
-## About
+## - About
 A dark-themed To-Do List Chrome Extension with a minimal interface. Tasks are saved automatically and persist after browser restarts, keeping your list right where you left it.
 
-## Features
+## - Features
 - Add, delete, and check off tasks
 - Clean, distraction-free interface
 - Dark theme for reduced eye strain
 - Lightweight and fast
 - Data persists across browser sessions
 
-## Installation
+## - Installation
 1. [Download the ZIP file](https://github.com/zWyrm/todo-chrome-extension/archive/refs/heads/main.zip) of this repository
 2. Extract the ZIP file to a folder on your computer
 3. Open Chrome and navigate to: `chrome://extensions/`
@@ -17,6 +17,6 @@ A dark-themed To-Do List Chrome Extension with a minimal interface. Tasks are sa
 5. Click **Load unpacked** and select the project folder
 6. The extension will now appear in your browser!
 
-## Tech Stack
+## - Tech Stack
 - HTML / CSS / JavaScript
 - LocalStorage (for data persistence)
