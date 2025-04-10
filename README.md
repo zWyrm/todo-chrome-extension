@@ -1,4 +1,4 @@
-# 📝 todo-chrome-extension
+# 📝 DoTask Chrome Extension
 ## - About
 A dark-themed To-Do List Chrome Extension with a minimal interface. Tasks are saved automatically and persist after browser restarts, keeping your list right where you left it.
 
