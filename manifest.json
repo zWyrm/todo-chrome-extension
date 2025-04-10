@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Dark To-Do List",
   "version": "1.0",
-  "description": "A dark-themed To-Do List Chrome Extension. Data persists even after browser restarts.",
+  "description": "A dark-themed To-Do List Chrome Extension. Data persists across browser sessions.",
   "action": {
     "default_popup": "index.html",
     "default_icon": {
