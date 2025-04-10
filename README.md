@@ -10,7 +10,7 @@ A dark-themed To-Do List Chrome Extension with a minimal interface. Tasks are sa
 - Data persists across browser sessions
 
 ## Installation
-1. [Download the ZIP file]() of this repository
+1. [Download the ZIP file](https://github.com/zWyrm/todo-chrome-extension/archive/refs/heads/main.zip) of this repository
 2. Extract the ZIP file to a folder on your computer
 3. Open Chrome and navigate to: `chrome://extensions/`
 4. Enable **Developer mode** (top right)
